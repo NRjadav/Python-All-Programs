@@ -1,0 +1,55 @@
+Example 1: Print the first 10 natural numbers using for loop.
+Example 2: Python program to print all the even numbers within the given range.
+Example 3: Python program to calculate the sum of all numbers from 1 to a given number.
+Example 4: Python program to calculate the sum of all the odd numbers within the given range.
+Example 5: Python program to print a multiplication table of a given number
+Example 6: Python program to count the total number of digits in a number.
+Example 7: Python program to count the number of even and odd numbers from a series of numbers.
+Example 8: Python program to display all numbers within a range except the prime numbers.
+Example 9: Python program that accepts a string and calculates the number of digits and letters.
+
+
+=======================================================================================================
+
+
+Q : 1 ==>  words= ["Apple", "Banana", "Car", "Dolphin" ]
+           output : A
+                    p
+                    p
+                    l
+                    e
+                    /////
+                    B
+                    a
+                    n
+                    a
+                    n
+                    a
+                    /////
+                    C
+                    a
+                    r
+                    /////
+                    D
+                    o
+                    l
+                    p
+                    h
+                    i
+                    n
+                    /////
+             
+Q : 2 ==>  Count the total number of digits in a number
+Q : 3 ==>  Display numbers from -10 to -1 using for loop
+Q : 4 ==>  Python program to check the validity of password input by users.
+Q : 5 ==>  Python program to convert the month name to a number of days. 
+Q : 6 ==>  loop through a tuple of mixed data type and extract only integer values
+
+
+==============================================
+date=14-06-2023
+
+Q : 1 ==>  newList = [12, 35, 9, 56, 24] output: [24, 35, 9, 56, 12]
+Q : 2 ==>  Addition of first and last digit of the number ==> number = 12475 ==> output=6
+Q : 3 ==>  Python program to print positive numbers and nagitive numbers in a list
+Q : 4 ==>  Python Program to count unique values inside a list
